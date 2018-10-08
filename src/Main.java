@@ -131,13 +131,13 @@ public class Main {
 
                 // Information will now be sent to Residential class - resCalc method.
 
-                    Residential customer = new Residential(customerName, customerPhone, customerAddress, squareFootage, senDiscount);
-                    //variables set to Residential()
-                    customer.resCalc();
+            Residential customer = new Residential(customerName, customerPhone, customerAddress, squareFootage, senDiscount);
+            //variables set to Residential()
+            customer.resCalc();
 }
                     //
 
-            
+
 
 
 
